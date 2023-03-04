@@ -6,6 +6,10 @@ Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configur
 
 Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro e 2 endpoints que podem ser usados para login.
 
+### Importar todas as requisições no Insomnia
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=YourSchool%20FakeAPI&uri=https%3A%2F%2Fyourschool-api.onrender.com%2Finsomnia.json)
+
 ### Cadastro
 
 POST /register <br/>
