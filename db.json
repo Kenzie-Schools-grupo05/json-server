@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "type": "student",
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 11,
+      "id": 1,
+      "cpf": "00000000000",
+      "cpfParent": "99999999999",
+      "class": "502",
+      "grades": {
+        "mathematics": "100",
+        "portuguese": "",
+        "sciences": "",
+        "history": "",
+        "geography": "",
+        "art": "",
+        "physicalEducation": ""
+      }
+    },
+    {
+      "type": "parent",
+      "email": "responsavel@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Responsável",
+      "age": 38,
+      "id": 2,
+      "cpf": "99999999999"
+    },
+    {
+      "type": "professor",
+      "email": "professor@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Professor",
+      "age": 45,
+      "id": 3,
+      "classes": [
+        "501",
+        "502",
+        "503",
+        "504"
+      ]
+    },
+    {
+      "email": "kenzinho2@mail.com",
+      "password": "$2a$10$ynRYiumn0pDoH2rN1G57ze2Rmg.hQzdy7VF9KOPfcBTovNCQrNYJS",
+      "type": "student",
+      "name": "Kenzinho",
+      "age": 11,
+      "cpf": "11111111111",
+      "cpfParent": "99999999999",
+      "id": 4
+    }
+  ],
+  "classes": [
+    {
+      "class": "501",
+      "grades": {
+        "mathematics": "",
+        "portuguese": "",
+        "sciences": "",
+        "history": "",
+        "geography": "",
+        "art": "",
+        "physicalEducation": ""
+      }
+    }
+  ]
+}
