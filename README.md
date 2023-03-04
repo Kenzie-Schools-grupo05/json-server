@@ -1,6 +1,6 @@
 # json-server-base
 
-Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configurada, feita para ser usada no desenvolvimento das API's nos Projetos Front-end.
+Esse repositório usou como base de JSON-Server + JSON-Server-Auth do tsunode(https://github.com/Kenzie-Academy-Brasil-Developers/json-server-base).
 
 ## Endpoints
 
