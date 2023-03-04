@@ -42,16 +42,6 @@
         "503",
         "504"
       ]
-    },
-    {
-      "email": "kenzinho2@mail.com",
-      "password": "$2a$10$ynRYiumn0pDoH2rN1G57ze2Rmg.hQzdy7VF9KOPfcBTovNCQrNYJS",
-      "type": "student",
-      "name": "Kenzinho",
-      "age": 11,
-      "cpf": "11111111111",
-      "cpfParent": "99999999999",
-      "id": 4
     }
   ],
   "classes": [

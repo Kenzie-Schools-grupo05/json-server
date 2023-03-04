@@ -15,6 +15,12 @@ POST /users
 Qualquer um desses 3 endpoints irá cadastrar o usuário na lista de "Users", sendo que os campos obrigatórios são os de email e password.
 Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do cadastro dos usuários.
 
+### Checar se o CPF já está cadastrado
+
+GET /users?cpf=${InputValueDeCPF}
+
+Checa se o CPF digitado já existe, se a API retornar um array vazio então o CPF está livre para ser cadastrado, mas caso a API retorne algo então o CPF já está cadastrado.
+
 ### Login
 
 POST /login <br/>
@@ -63,4 +69,3 @@ Com essa requisição você consegue ver as matérias daquela turma.
 GET /users?class=${className}&name_like=${inputValue}
 
 Na hora da requisição passar como parâmetro o valor do campo (input), dessa forma pesquisando como um filter dentro da fake API.
-
