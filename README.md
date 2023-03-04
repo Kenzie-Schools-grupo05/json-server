@@ -1,6 +1,6 @@
 # json-server-base
 
-Esse repositório usou como base de JSON-Server + JSON-Server-Auth do tsunode(https://github.com/Kenzie-Academy-Brasil-Developers/json-server-base).
+Esse repositório usou como base o JSON-Server + JSON-Server-Auth do tsunode(https://github.com/Kenzie-Academy-Brasil-Developers/json-server-base).
 
 ## Endpoints
 
@@ -18,12 +18,6 @@ POST /users
 
 Qualquer um desses 3 endpoints irá cadastrar o usuário na lista de "Users", sendo que os campos obrigatórios são os de email e password.
 Você pode ficar a vontade para adicionar qualquer outra propriedade no corpo do cadastro dos usuários.
-
-### Checar se o CPF já está cadastrado
-
-GET /users?cpf=${InputValueDeCPF}
-
-Checa se o CPF digitado já existe, se a API retornar um array vazio então o CPF está livre para ser cadastrado, mas caso a API retorne algo então o CPF já está cadastrado.
 
 ### Login
 
