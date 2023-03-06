@@ -10,44 +10,15 @@
       "cpf": "00000000000",
       "cpfParent": "99999999999",
       "class": "502",
-      "grades": [
-        {
-          "mathematics": "100",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "90",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "75",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "80",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        }
-      ]
+      "grades": {
+        "mathematics": ["100", "90", "80", "75"],
+        "portuguese": ["100", "90", "80", "75"],
+        "sciences": ["100", "90", "80", "75"],
+        "history": ["100", "90", "80", "75"],
+        "geography": ["100", "90", "80", "75"],
+        "art": ["100", "90", "80", "75"],
+        "physicalEducation": ["100", "90", "80", "75"]
+      }
     },
     {
       "type": "parent",
@@ -71,85 +42,27 @@
   "classes": [
     {
       "class": "501",
-      "grades": [
-        {
-          "mathematics": "",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        }
-      ]
+      "grades": {
+        "mathematics": ["100", "90", "80", "75"],
+        "portuguese": ["100", "90", "80", "75"],
+        "sciences": ["100", "90", "80", "75"],
+        "history": ["100", "90", "80", "75"],
+        "geography": ["100", "90", "80", "75"],
+        "art": ["100", "90", "80", "75"],
+        "physicalEducation": ["100", "90", "80", "75"]
+      }
     },
     {
       "class": "502",
-      "grades": [
-        {
-          "mathematics": "",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        },
-        {
-          "mathematics": "",
-          "portuguese": "",
-          "sciences": "",
-          "history": "",
-          "geography": "",
-          "art": "",
-          "physicalEducation": ""
-        }
-      ]
+      "grades": {
+        "mathematics": ["100", "90", "80", "75"],
+        "portuguese": ["100", "90", "80", "75"],
+        "sciences": ["100", "90", "80", "75"],
+        "history": ["100", "90", "80", "75"],
+        "geography": ["100", "90", "80", "75"],
+        "art": ["100", "90", "80", "75"],
+        "physicalEducation": ["100", "90", "80", "75"]
+      }
     }
   ]
 }
