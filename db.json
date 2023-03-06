@@ -71,15 +71,85 @@
   "classes": [
     {
       "class": "501",
-      "grades": {
-        "mathematics": "",
-        "portuguese": "",
-        "sciences": "",
-        "history": "",
-        "geography": "",
-        "art": "",
-        "physicalEducation": ""
-      }
+      "grades": [
+        {
+          "mathematics": "",
+          "portuguese": "",
+          "sciences": "",
+          "history": "",
+          "geography": "",
+          "art": "",
+          "physicalEducation": ""
+        },
+        {
+          "mathematics": "",
+          "portuguese": "",
+          "sciences": "",
+          "history": "",
+          "geography": "",
+          "art": "",
+          "physicalEducation": ""
+        },
+        {
+          "mathematics": "",
+          "portuguese": "",
+          "sciences": "",
+          "history": "",
+          "geography": "",
+          "art": "",
+          "physicalEducation": ""
+        },
+        {
+          "mathematics": "",
+          "portuguese": "",
+          "sciences": "",
+          "history": "",
+          "geography": "",
+          "art": "",
+          "physicalEducation": ""
+        }
+      ]
+    },
+    {
+      "class": "502",
+      "grades": [
+        {
+          "mathematics": "",
+          "portuguese": "",
+          "sciences": "",
+          "history": "",
+          "geography": "",
+          "art": "",
+          "physicalEducation": ""
+        },
+        {
+          "mathematics": "",
+          "portuguese": "",
+          "sciences": "",
+          "history": "",
+          "geography": "",
+          "art": "",
+          "physicalEducation": ""
+        },
+        {
+          "mathematics": "",
+          "portuguese": "",
+          "sciences": "",
+          "history": "",
+          "geography": "",
+          "art": "",
+          "physicalEducation": ""
+        },
+        {
+          "mathematics": "",
+          "portuguese": "",
+          "sciences": "",
+          "history": "",
+          "geography": "",
+          "art": "",
+          "physicalEducation": ""
+        }
+      ]
     }
   ]
 }
