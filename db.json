@@ -11,13 +11,13 @@
       "cpfParent": "99999999999",
       "class": "502",
       "grades": {
-        "mathematics": ["100", "90", "80", "75"],
-        "portuguese": ["100", "90", "80", "75"],
-        "sciences": ["100", "90", "80", "75"],
-        "history": ["100", "90", "80", "75"],
-        "geography": ["100", "90", "80", "75"],
-        "art": ["100", "90", "80", "75"],
-        "physicalEducation": ["100", "90", "80", "75"]
+        "mathematics": ["100", "90", "80"],
+        "portuguese": ["100", "90", "80"],
+        "sciences": ["100", "90", "80"],
+        "history": ["100", "90", "80"],
+        "geography": ["100", "90", "80"],
+        "art": ["100", "90", "80"],
+        "physicalEducation": ["100", "90", "80"]
       }
     },
     {
@@ -36,32 +36,32 @@
       "name": "Professor",
       "age": 45,
       "id": 3,
-      "classes": ["501", "502", "503", "504"]
+      "classes": ["501", "502"]
     }
   ],
   "classes": [
     {
       "class": "501",
       "grades": {
-        "mathematics": ["100", "90", "80", "75"],
-        "portuguese": ["100", "90", "80", "75"],
-        "sciences": ["100", "90", "80", "75"],
-        "history": ["100", "90", "80", "75"],
-        "geography": ["100", "90", "80", "75"],
-        "art": ["100", "90", "80", "75"],
-        "physicalEducation": ["100", "90", "80", "75"]
+        "mathematics": ["", "", ""],
+        "portuguese": ["", "", ""],
+        "sciences": ["", "", ""],
+        "history": ["", "", ""],
+        "geography": ["", "", ""],
+        "art": ["", "", ""],
+        "physicalEducation": ["", "", ""]
       }
     },
     {
       "class": "502",
       "grades": {
-        "mathematics": ["100", "90", "80", "75"],
-        "portuguese": ["100", "90", "80", "75"],
-        "sciences": ["100", "90", "80", "75"],
-        "history": ["100", "90", "80", "75"],
-        "geography": ["100", "90", "80", "75"],
-        "art": ["100", "90", "80", "75"],
-        "physicalEducation": ["100", "90", "80", "75"]
+        "mathematics": ["", "", ""],
+        "portuguese": ["", "", ""],
+        "sciences": ["", "", ""],
+        "history": ["", "", ""],
+        "geography": ["", "", ""],
+        "art": ["", "", ""],
+        "physicalEducation": ["", "", ""]
       }
     }
   ]
