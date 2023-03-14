@@ -11,7 +11,7 @@
       "cpfParent": "99999999999",
       "class": "502",
       "grades": {
-        "mathematics": ["100", "90", "80"],
+        "mathematics": ["20", "10", "80"],
         "portuguese": ["100", "90", "80"],
         "sciences": ["100", "90", "80"],
         "history": ["100", "90", "80"],
@@ -24,7 +24,7 @@
       "type": "parent",
       "email": "responsavel@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Responsável",
+      "name": "João",
       "age": 38,
       "id": 2,
       "cpf": "99999999999"
@@ -33,10 +33,40 @@
       "type": "professor",
       "email": "professor@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Professor",
+      "name": "Cláudia",
       "age": 45,
       "id": 3,
       "classes": ["501", "502"]
+    },
+    {
+      "type": "student",
+      "email": "kenzinho2@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho2",
+      "age": 11,
+      "id": 4,
+      "cpf": "00000000001",
+      "cpfParent": "99999999999"
+    },
+    {
+      "type": "student",
+      "email": "kenzinho3@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho3",
+      "age": 12,
+      "id": 5,
+      "cpf": "00000000000",
+      "cpfParent": "99999999999",
+      "class": "501",
+      "grades": {
+        "mathematics": ["10", "40", "80"],
+        "portuguese": ["100", "90", "80"],
+        "sciences": ["100", "90", "80"],
+        "history": ["100", "90", "80"],
+        "geography": ["100", "90", "80"],
+        "art": ["100", "90", "80"],
+        "physicalEducation": ["100", "90", "80"]
+      }
     }
   ],
   "classes": [
